@@ -1,0 +1,34 @@
+.h1{
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    top: 0px;
+    left: 600px;
+    margin: 0;
+}
+.sec1{
+    border: 3px solid black;
+    margin-top: 50px;
+}
+.ta1{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+
+.ta1:hover{
+    transform: scale(1.2,1.2);
+    background-color: aqua;
+}
+.ta2{
+    display: flex;
+    justify-content: center;
+    margin: 100px;
+}
+
+
+.ta2:hover{
+    transform: scale(1.2,1.2);
+    background-color: orange;
+}
